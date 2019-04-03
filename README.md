@@ -1,2 +1,2 @@
-# NIOS2-system-design
-Intel's NIOS 2 soft-core processor based system design, using Intel's Platform Designer implemented on FPGA for soft-core testing
+# High-Frequency-PWM
+Implementing High Frequency and Low Latency Pulse Width Modulation using Intel's MAX 10 FPGA for softcore testing
