@@ -3,7 +3,7 @@ input wire [7:0] msg_signal,
 input wire clk,
 output reg out);
 	
-	reg [2:0] count;
+	reg [7:0] count;
 	reg [7:0] code;
 	reg [7:0] data;
 
